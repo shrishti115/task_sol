@@ -1,0 +1,162 @@
+[
+    {
+        "sentence": "spawn a sphere of small size and blue color",
+        "intent": "create",
+        "entities": {
+            "shape": "cube",
+            "size": "small",
+            "color": "blue"
+        }
+    },
+    {
+        "sentence": "remove a cuboid of medium size and white color",
+        "intent": "delete",
+        "entities": {
+            "name": "cube"
+        }
+    },
+    {
+        "sentence": "create a cuboid of tiny size and green color",
+        "intent": "create",
+        "entities": {
+            "shape": "cube",
+            "size": "small",
+            "color": "green"
+        }
+    },
+    {
+        "sentence": "remove a ball of tiny size and white color",
+        "intent": "delete",
+        "entities": {
+            "name": "cube"
+        }
+    },
+    {
+        "sentence": "remove a flat of little size and white color",
+        "intent": "delete",
+        "entities": {
+            "name": "cube"
+        }
+    },
+    {
+        "sentence": "create a cubic of little size and white color",
+        "intent": "create",
+        "entities": {
+            "shape": "sphere",
+            "size": "small",
+            "color": "white"
+        }
+    },
+    {
+        "sentence": "delete a sheet of medium size and blue color",
+        "intent": "delete",
+        "entities": {
+            "name": "sphere"
+        }
+    },
+    {
+        "sentence": "remove a cone of tiny size and green color",
+        "intent": "delete",
+        "entities": {
+            "name": "sphere"
+        }
+    },
+    {
+        "sentence": "add a ball of huge size and blue color",
+        "intent": "create",
+        "entities": {
+            "shape": "sphere",
+            "size": "large",
+            "color": "blue"
+        }
+    },
+    {
+        "sentence": "add a sheet of small size and red color",
+        "intent": "create",
+        "entities": {
+            "shape": "sphere",
+            "size": "small",
+            "color": "red"
+        }
+    },
+    {
+        "sentence": "add a ball of large size and blue color",
+        "intent": "create",
+        "entities": {
+            "shape": "cone",
+            "size": "large",
+            "color": "blue"
+        }
+    },
+    {
+        "sentence": "remove a flat of little size and green color",
+        "intent": "delete",
+        "entities": {
+            "name": "cone"
+        }
+    },
+    {
+        "sentence": "generate a blocks of tiny size and blue color",
+        "intent": "create",
+        "entities": {
+            "shape": "cone",
+            "size": "small",
+            "color": "blue"
+        }
+    },
+    {
+        "sentence": "spawn a blocks of average size and yellow color",
+        "intent": "create",
+        "entities": {
+            "shape": "cone",
+            "size": "medium",
+            "color": "yellow"
+        }
+    },
+    {
+        "sentence": "remove a sheet of little size and white color",
+        "intent": "delete",
+        "entities": {
+            "name": "cone"
+        }
+    },
+    {
+        "sentence": "generate a plane of large size and blue color",
+        "intent": "create",
+        "entities": {
+            "shape": "plane",
+            "size": "large",
+            "color": "blue"
+        }
+    },
+    {
+        "sentence": "spawn a cubes of large size and white color",
+        "intent": "create",
+        "entities": {
+            "shape": "plane",
+            "size": "large",
+            "color": "white"
+        }
+    },
+    {
+        "sentence": "remove a cuboid of large size and yellow color",
+        "intent": "delete",
+        "entities": {
+            "name": "plane"
+        }
+    },
+    {
+        "sentence": "delete a flat of big size and blue color",
+        "intent": "delete",
+        "entities": {
+            "name": "plane"
+        }
+    },
+    {
+        "sentence": "delete a cone of medium size and green color",
+        "intent": "delete",
+        "entities": {
+            "name": "plane"
+        }
+    }
+]
